@@ -5,3 +5,6 @@ Trabalhos disciplina de informática
 
 ## Atividade 2: Análise exploratória no Excel
 <img width="1911" height="710" alt="{30957D11-3E13-41D4-97BB-CE630C9C0996}" src="https://github.com/user-attachments/assets/9c2fa03c-01eb-4057-b29d-df499bc09e80" />
+
+## Atividade 5: Análise de valores movimentados por estados
+<img width="1074" height="607" alt="image" src="https://github.com/user-attachments/assets/d791ea2e-4265-48d0-84e7-f6055a613775" />
