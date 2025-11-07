@@ -7,6 +7,10 @@ Trabalhos disciplina de informática
 ## Atividade 2: Análise exploratória no Excel
 <img width="1911" height="710" alt="{30957D11-3E13-41D4-97BB-CE630C9C0996}" src="https://github.com/user-attachments/assets/9c2fa03c-01eb-4057-b29d-df499bc09e80" />
 
+## Atividade 3: Plano de produtos e exportação
+<img width="1378" height="478" alt="image" src="https://github.com/user-attachments/assets/0c4f8e9a-da14-48df-becc-03b1ad2e7a56" />
+
+
 ## Atividade 4: Dados de exportação por país
 <img width="1109" height="700" alt="image" src="https://github.com/user-attachments/assets/b5a8a2fc-8b9f-4a97-8462-9abbd29f5e59" />
 
