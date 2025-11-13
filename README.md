@@ -17,3 +17,7 @@ Trabalhos disciplina de informática
 ## Atividade 5: Análise de valores movimentados por estado
 <img width="1074" height="607" alt="image" src="https://github.com/user-attachments/assets/d791ea2e-4265-48d0-84e7-f6055a613775" />
 
+## Atividade Regressão Linear Excel e Google Colab
+<img width="1364" height="572" alt="image" src="https://github.com/user-attachments/assets/4566e190-a818-4678-85d7-1919288fb75b" />
+<img width="1853" height="854" alt="image" src="https://github.com/user-attachments/assets/830179b3-6d0b-422c-a10d-18b48917751b" />
+
