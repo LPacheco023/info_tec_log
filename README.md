@@ -12,10 +12,12 @@ Trabalhos disciplina de informática
 
 
 ## Atividade 4: Dados de exportação por país
-<img width="1109" height="700" alt="image" src="https://github.com/user-attachments/assets/b5a8a2fc-8b9f-4a97-8462-9abbd29f5e59" />
+<img width="1309" height="734" alt="image" src="https://github.com/user-attachments/assets/50846147-2fe1-4dfe-8d8e-c5e0114f10fd" />
+
 
 ## Atividade 5: Análise de valores movimentados por estado
 <img width="1074" height="607" alt="image" src="https://github.com/user-attachments/assets/d791ea2e-4265-48d0-84e7-f6055a613775" />
+
 
 ## Atividade Regressão Linear Excel e Google Colab
 <img width="1364" height="572" alt="image" src="https://github.com/user-attachments/assets/4566e190-a818-4678-85d7-1919288fb75b" />
