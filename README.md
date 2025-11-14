@@ -12,7 +12,7 @@ Trabalhos disciplina de informática
 
 
 ## Atividade 4: Dados de exportação por país
-<img width="1309" height="734" alt="image" src="https://github.com/user-attachments/assets/50846147-2fe1-4dfe-8d8e-c5e0114f10fd" />
+<img width="1287" height="715" alt="image" src="https://github.com/user-attachments/assets/1a116824-27ae-45c4-b644-0fd89fd9d59a" />
 
 
 ## Atividade 5: Análise de valores movimentados por estado
