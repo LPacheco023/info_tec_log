@@ -23,3 +23,7 @@ Trabalhos disciplina de informática
 <img width="1364" height="572" alt="image" src="https://github.com/user-attachments/assets/4566e190-a818-4678-85d7-1919288fb75b" />
 <img width="1853" height="854" alt="image" src="https://github.com/user-attachments/assets/830179b3-6d0b-422c-a10d-18b48917751b" />
 
+## Prova Informática
+<img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/36c5a7a8-7c22-4f52-92f1-1b4137f262e1" />
+
+
